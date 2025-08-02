@@ -5,11 +5,11 @@ __pycache__/
 # Ignorar arquivos de log
 *.log
 
-# Ignorar pastas de dependências (se você usar virtualenv, por exemplo)
+# Ignorar pastas de dependências
 venv/
 .env/
 
-# Ignorar arquivos gerados pelo sistema (ex. Mac, Windows)
+# Ignorar arquivos gerados pelo sistema
 .DS_Store
 Thumbs.db
 
