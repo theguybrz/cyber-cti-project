@@ -6,7 +6,6 @@ __pycache__/
 *.log
 
 # Ignorar pastas de dependências
-venv/
 .env/
 
 # Ignorar arquivos gerados pelo sistema
